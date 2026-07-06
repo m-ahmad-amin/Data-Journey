@@ -1,4 +1,4 @@
-# Revising Data
+# Data Jounrey
 
 A personal collection of notebooks for revising core data science concepts, pandas, visualization, and general data handling. Built as a study log while working through problems and refreshing fundamentals.
 
@@ -27,7 +27,7 @@ Anything that doesn't fit neatly elsewhere | Smaller exercises, quick notes, or 
 Clone the repo and open any notebook with Jupyter:
 
 ```bash
-git clone https://github.com/m-ahmad-amin/revising-data.git
+git clone https://github.com/m-ahmad-amin/Data-Journey.git
 cd revising-data
 ```
 
